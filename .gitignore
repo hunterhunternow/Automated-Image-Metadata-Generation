@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+venv/
+*.env
+
+# Output files
+image_metadata.csv
+*.json # If you ever download your service key to the project dir by mistake
+
+# OS-specific
+.DS_Store
+Thumbs.db
